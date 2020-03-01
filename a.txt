@@ -1,0 +1,6 @@
+512645 deops test
+exit
+finish
+512756
+:q
+
